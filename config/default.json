@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://FamilysHome:Franklin1997@devconnector.tr1qz3b.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "cfb7292b4a329e362d36",
+    "githubSecret": "bd038026282f539d4b8d5cad699ddb69ae9a741c"
+}
